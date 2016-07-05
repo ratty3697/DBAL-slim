@@ -3,7 +3,7 @@
 $config = new \Doctrine\DBAL\Configuration();
 
 $connectionParams = array(
-    'dbname' => 'dbaltest',
+    'dbname' => 'codechef_view',
     'user' => 'root',
     'password' => '',
     'host' => 'localhost',
